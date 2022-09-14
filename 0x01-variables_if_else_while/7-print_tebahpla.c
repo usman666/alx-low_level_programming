@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- *  * main - program that prints the lowercase in the reverse.
- *   * You can only use the putchar function
- *    * Return: 0
- *     */
+ * main - program that prints the lowercase in the reverse.
+ * You can only use the putchar function
+ * Return: 0
+ */
 
 int main(void)
 {
